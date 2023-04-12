@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Website development**
 
-- 🌱 I’m currently learning  **Frontend Dvelopmet , Algorithms**
+- 🌱 I’m currently learning  **Frontend Dvelopment , Algorithms**
 
 - 👯 I’m looking to collaborate on **Web-based Projects**
 
