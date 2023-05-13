@@ -1,6 +1,6 @@
 
  
-<h1 align="center">Hi 👋, I'm Atul Harsh</h1>
+<h1 align="center">Hi, I'm Atul Harsh</h1>
 <h3 align="center">A passionate  Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh01010&label=Profile%20views&color=0e75b6&style=flat" alt="harsh01010" /> </p>
 
