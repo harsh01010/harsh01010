@@ -25,8 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh01__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harsh_01010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_01010" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harsh_01010" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="harsh_01010" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atulharsh274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<atulharsh274>" height="30" width="40" /></a>
+ <a href="https://leetcode.com/hitroo310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="<stuBorn>" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
