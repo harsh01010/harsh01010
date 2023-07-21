@@ -10,13 +10,11 @@
 
 <img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 
-- 🔭 I’m currently working on **Website development**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning  **Frontend Dvelopment , Algorithms**
 
 - 👯 I’m looking to collaborate on **Web-based Projects**
-
-- 🤝 I’m looking for help with **Javascript**
 
 - 💬 Ask me about **c++ , DSA**
 
