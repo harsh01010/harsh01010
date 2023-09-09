@@ -2,27 +2,30 @@
  
 <h1 align="center">Hi, I'm Atul Harsh</h1>
 <h3 align="center">A passionate  Software Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh01010&label=Profile%20views&color=0e75b6&style=flat" alt="harsh01010" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harsh01010&label=Profile%20views&color=0e75b6&style=flat" alt="harsh01010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh01010" alt="harsh01010" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh01010" alt="harsh01010" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/harsh01__" target="blank"><img src="https://img.shields.io/twitter/follow/harsh01__?logo=twitter&style=for-the-badge" alt="harsh01__" /></a> </p>
+<p align="right"> <a href="https://twitter.com/harsh01__" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40harsh01__" alt="harsh01__" /></a> </p>
 
-<img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
+<!--<img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">-->
+<div>
+ 
+  - 🔭 I’m currently working on **Javascript**
 
-- 🔭 I’m currently working on **Javascript**
+  - 🌱 I’m currently learning  **Frontend Dvelopment , Algorithms**
 
-- 🌱 I’m currently learning  **Frontend Dvelopment , Algorithms**
+  - 👯 I’m looking to collaborate on **Web-based Projects**
 
-- 👯 I’m looking to collaborate on **Web-based Projects**
+  - 💬 Ask me about **c++ , DSA**
 
-- 💬 Ask me about **c++ , DSA**
-
-- 📫 How to reach me **atulharsh273@gmail.com**
+  - 📫 How to reach me **atulharsh273@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh01__" height="30" width="40" /></a>
+<a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://i.ibb.co/9V21s6B/icons8-twitterx-50.png" alt="harsh01__" height="50" width="50" /></a>
+ <a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://i.ibb.co/0fcXFj4/icons8-linkedin-48.png" alt="harsh01__" height="48" width="48" /></a>
 <a href="https://www.codechef.com/users/harsh_01010" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="harsh_01010" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atulharsh274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<atulharsh274>" height="30" width="40" /></a>
  <a href="https://leetcode.com/hitroo310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="<stuBorn>" height="30" width="40" /></a>
