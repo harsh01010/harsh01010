@@ -33,7 +33,7 @@
 <p align="left">
  <a href="https://auth.geeksforgeeks.org/user/atulharsh274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<atulharsh274>" height="40" width="40"/>
  <a href="https://leetcode.com/hitroo310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="<stuBorn>" height="40" width="40" /></a>
- <a href="https://leetcode.com/hitroo310/" target="blank"><img align="center" src="https://files.codingninjas.com/cn-studio-new-logo-27719.svg" alt="<stuBorn>" height="60" width="80" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/stuBorn" target="blank"><img align="center" src="https://files.codingninjas.com/cn-studio-new-logo-27719.svg" alt="<stuBorn>" height="60" width="80" /></a>
  <a href="https://www.codechef.com/users/harsh_01010" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="harsh_01010" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/atulharsh273" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="atulharsh273" height="50" width="50" /></a>
  
