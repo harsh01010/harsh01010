@@ -27,8 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://i.ibb.co/9V21s6B/icons8-twitterx-50.png" alt="harsh01__" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/atul-harsh-967897271/" target="blank"><img align="center" src="https://i.ibb.co/0fcXFj4/icons8-linkedin-48.png" alt="atul-harsh-967897271" height="48" width="48" /></a>
-<a href="https://auth.geeksforgeeks.org/user/atulharsh274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<atulharsh274>" height="30" width="40" /></a>
- <a href="https://leetcode.com/hitroo310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="<stuBorn>" height="30" width="40" /></a>
+  
 </p>
 <h3 align="left">Problem Solving Platforms:</h3>
 <p align="left">
