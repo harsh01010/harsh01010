@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsh01__" target="blank"><img align="center" src="https://i.ibb.co/9V21s6B/icons8-twitterx-50.png" alt="harsh01__" height="48" width="48" /></a>
-<a href="https://www.linkedin.com/in/atul-harsh-967897271/" target="blank"><img align="center" src="https://i.ibb.co/0fcXFj4/icons8-linkedin-48.png" alt="atul-harsh-967897271" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/atul-harsh--/" target="blank"><img align="center" src="https://i.ibb.co/0fcXFj4/icons8-linkedin-48.png" alt="atul-harsh-967897271" height="48" width="48" /></a>
   
 </p>
 <h3 align="left">Problem Solving Platforms:</h3>
