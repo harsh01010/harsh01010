@@ -4,7 +4,7 @@
 <h3 align="center">A passionate  Software Engineer from India</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harsh01010&label=Profile%20views&color=0e75b6&style=flat" alt="harsh01010" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh01010&theme=buddhism" alt="harsh01010" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh01010&theme=dracula" alt="harsh01010" /></a> </p>
 
 <p align="right"> <a href="https://twitter.com/harsh01__" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40harsh01__" alt="harsh01__" /></a> </p>
 
