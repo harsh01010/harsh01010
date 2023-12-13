@@ -13,7 +13,7 @@
  
   - 🔭 I’m currently working on **Javascript Projects**
 
-  - 🌱 I’m currently learning  **Frontend Dvelopment , Algorithms**
+  - 🌱 I’m currently learning  **React Js , Algorithms**
 
   - 👯 I’m looking to collaborate on **Web-based Projects**
 
