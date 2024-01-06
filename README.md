@@ -11,11 +11,11 @@
 <!--<img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">-->
 <div>
  
-  - 🔭 I’m currently working on **Javascript Projects**
+  - 👨🏻‍💻 I’m currently working on **Javascript Projects**
 
-  - 🌱 I’m currently learning  **React Js , Algorithms**
+  - 🧑‍💻 I’m currently learning  **React Js , Algorithms**
 
-  - 👯 I’m looking to collaborate on **Web-based Projects**
+  - 🤝 I’m looking to collaborate on **Web-based Projects**
 
   - 💬 Ask me about **c++ , DSA**
 
