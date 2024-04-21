@@ -11,7 +11,7 @@
 <!--<img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">-->
 <div>
  
-  - 👨🏻‍💻 I’m currently working on **github.com/harsh01010/MovieApp**
+  - 👨🏻‍💻 I’m currently working on <a href="https://github.com/harsh01010/MovieApp" target="blank"> **React Movie App** </a>
 
   - 🧑‍💻 I’m currently learning  **React Js , Algorithms**
 
