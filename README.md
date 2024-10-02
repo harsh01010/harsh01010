@@ -13,7 +13,7 @@
  
   - 👨🏻‍💻 I’m currently working on <a href="https://github.com/harsh01010/MovieApp" target="blank"> **React Movie App** </a>
 
-  - 🧑‍💻 I’m currently learning  **.Net,Angular, Algorithms**
+  - 🧑‍💻 I’m currently learning  **ML,Angular, Algorithms**
 
   - 🤝 I’m looking to collaborate on **Web-based Projects**
 
