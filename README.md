@@ -18,7 +18,7 @@
  
   - 👨🏻‍💻 I’m currently working on <a href="https://github.com/harsh01010/Blinkit" target="blank"> **Grocery Delivery App** </a>
 
-- 🧑‍💻 I’m currently learning **ML,Angular,React Native**
+- 🧑‍💻 I’m currently learning **ML,Java Spring Boot**
 
 - 🤝 I’m looking to collaborate on **Web-based Projects**
 
