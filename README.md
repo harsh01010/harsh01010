@@ -16,11 +16,11 @@
 <!-- <img align="right" alt="error loading" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"> -->
 <div>
  
-  - 👨🏻‍💻 I’m currently working on <a href="https://github.com/harsh01010/Blinkit" target="blank"> **Grocery Delivery App** </a>
+<!--   - 👨🏻‍💻 I’m currently working on <a href="https://github.com/harsh01010/Blinkit" target="blank"> **Grocery Delivery App** </a>
 
-- 🧑‍💻 I’m currently learning **ML,Java Spring Boot**
+- 🧑‍💻 I’m currently learning **ML,Java Spring Boot**  -->
 
-- 🤝 I’m looking to collaborate on **Web-based Projects**
+- 🤝 I’m looking to collaborate on **Web-based Projects,AI/ML**
 
 - 💬 Ask me about **c++ , DSA**
 
